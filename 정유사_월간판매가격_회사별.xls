@@ -1,0 +1,1788 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>싼 주유소 찾기 Opinet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="/css/user/sub.css"  media="screen" />
+	<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_9.css" />
+	<!--[endif]-->
+	<!--[if IE 8]-->
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_8.css" />
+	<!--[endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/user/ie_7.css" />
+	<![endif]-->
+</head>
+<body onload="">
+
+	<!-- 구분설정  -->
+	<div class="desc_box">
+		<div class="a_left">	
+		    <span><h2>정유사 월간판매가격 회사별</h2></span>
+		    <span>기준선택 :
+            월간
+            
+            
+		    </span><br/>
+		    <span>기간:
+		    
+		    2021년&nbsp;07월&nbsp;~&nbsp;2023년&nbsp;08월
+            
+            
+            
+		    </span>
+		  <br/>
+		    <span>기준가격:
+			세후
+					    
+		    </span><br/>
+		    
+                <span>유형:
+                정유사별
+                           
+                </span><br/>
+            
+            
+            
+                <span>정유사:             
+                    SK에너지&nbsp;
+                    GS칼텍스&nbsp;
+                    HD현대오일뱅크&nbsp;
+                    S-OIL&nbsp;
+                    SK가스&nbsp;
+                    E1&nbsp;
+                </span><br/>
+                <span>제품:
+                    
+                    
+                    
+                    
+                    
+                             
+                                
+                                
+                             
+                                      
+                </span><br/>
+            
+            
+            <br/><br/>
+          
+			
+		</div>
+	</div>
+	 
+                <div id="table_form">
+                <div class="t_right"> 
+                    
+                    
+                        <table class="tbl_type10"  summary="정유사, 고급휘발유, 보통휘발유, 자동차용경유, 실내등유 등을 확인 할 수 있습니다" border="1">
+                            <thead>
+                                <tr>
+                                    <th class="nobd_l" scope="col">기간</th> 
+                                                 
+                                    <th scope="col">SK에너지</th>              
+                                    
+                                    
+                                    <th scope="col">GS칼텍스</th>
+                                    
+                                    
+                                    <th scope="col">HD현대오일뱅크</th>
+                                    
+                                    
+                                    <th scope="col">S-OIL</th>
+                                    
+                                    
+                                    <th scope="col">SK가스</th>
+                                    
+                                    
+                                    <th scope="col">E1</th>
+                                    
+                                </tr>
+                            </thead>
+                            
+                            <tbody> 
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년07월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1237.58</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1238.40</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1266.38</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1233.76</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년08월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1252.56</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1259.54</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1287.28</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1259.56</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년09월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1241.81</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1243.92</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1264.86</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1243.91</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년10월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1280.57</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1283.33</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1319.65</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1277.35</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년11월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1326.74</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1328.58</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1365.27</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1322.33</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2021년12월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1262.44</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1274.37</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1325.43</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1271.38</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년01월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                             class="v_row" 
+                                            
+                                            
+                                        >1206.67</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                             class="v_row" 
+                                            
+                                            
+                                        >1208.58</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                             class="v_row" 
+                                            
+                                            
+                                        >1235.58</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                             class="v_row" 
+                                            
+                                            
+                                        >1205.77</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년02월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1361.50</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1319.57</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1395.04</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1307.98</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년03월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1441.91</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1430.19</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1538.34</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1420.42</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년04월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1705.72</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1703.12</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1776.02</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1708.15</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년05월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1707.32</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1698.10</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1770.29</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1710.20</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년06월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1802.64</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1799.85</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1891.16</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1805.02</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년07월</td>
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                            
+                                            
+                                            
+                                        >1960.00</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                            
+                                            
+                                            
+                                        >1948.87</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                            
+                                            
+                                            
+                                        >1980.89</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                            
+                                            
+                                            
+                                        >1965.34</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년08월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1796.10</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1780.47</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1782.42</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1789.66</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년09월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1682.55</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1683.51</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1696.79</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1675.45</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년10월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1709.59</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1702.13</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1720.98</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1709.07</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년11월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1736.31</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1756.07</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1741.88</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1737.87</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2022년12월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1668.14</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1673.74</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1650.30</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1675.38</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년01월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1450.98</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1444.74</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1463.44</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1434.37</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년02월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1434.73</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1425.70</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1447.30</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1417.71</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년03월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1372.22</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1370.73</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1397.70</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1367.45</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년04월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1355.74</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1356.99</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1384.87</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1353.78</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년05월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1323.33</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1329.78</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1344.39</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1322.65</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년06월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1238.78</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1248.15</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1276.64</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1238.51</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년07월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1243.63</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1245.75</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1253.13</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1238.85</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                                <tr>
+                                    <td class="nobd_l t_center">2023년08월</td>
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1302.66</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1302.94</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1316.54</td>
+                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td 
+                                            
+                                            
+                                            
+                                        >1291.70</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                    
+                                        
+                                        
+                                        <td  class="v_hi"  
+                                             class="v_row" 
+                                            
+                                            
+                                        >0.00</td>
+                                                                        
+                                    
+                                </tr>
+                                
+                            </tbody>
+                            
+                            
+                        </table>    
+                    
+                    
+                </div>
+             </div>
+
+
+	
+</body>
+</html>
+
